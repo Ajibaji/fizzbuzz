@@ -1,6 +1,6 @@
-# student-directory #
+# FIZZBUZZ #
 
-A VERY basic game of FizzBuzz 
+A VERY basic game of FizzBuzz
 
 ## HOW TO USE ##
 
